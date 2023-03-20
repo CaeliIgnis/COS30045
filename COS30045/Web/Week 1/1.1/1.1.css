@@ -1,0 +1,18 @@
+h1{
+    color: aqua;
+}
+
+.table{
+    width: 400px;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+}
+
+.footer{
+    background-color: black;
+}
+
+.p{
+    float: left;
+}
